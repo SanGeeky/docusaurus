@@ -19,6 +19,7 @@ export = {
       rules: {
         '@docusaurus/string-literal-i18n-messages': 'error',
         '@docusaurus/no-untranslated-text': 'warn',
+        '@docusaurus/prefer-docusaurus-link': 'warn',
       },
     },
   },

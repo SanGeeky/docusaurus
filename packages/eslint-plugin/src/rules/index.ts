@@ -7,8 +7,10 @@
 
 import noUntranslatedText from './no-untranslated-text';
 import stringLiteralI18nMessages from './string-literal-i18n-messages';
+import preferDocusaurusLink from './prefer-docusaurus-link';
 
 export default {
   'no-untranslated-text': noUntranslatedText,
   'string-literal-i18n-messages': stringLiteralI18nMessages,
+  'prefer-docusaurus-link': preferDocusaurusLink,
 };
